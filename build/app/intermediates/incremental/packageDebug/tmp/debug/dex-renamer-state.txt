@@ -1,0 +1,4 @@
+#Sat Oct 03 19:15:40 BDT 2020
+base.0=G\:\\PlayGround\\AS\\flutter_app4\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
